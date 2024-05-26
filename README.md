@@ -22,7 +22,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 ```
 
 
-'''program to find L and U matrix using QR decompostition.
+'''program to find Q and R matrix using QR decompostition.
 Develeped by : Divya.A
 RegisterNumber:2305002007
 '''
@@ -54,7 +54,8 @@ QR_Decomposition(a)
 
 ## Output
 
-![image](https://github.com/divyaanbu-143/QRdecomposition/assets/155506447/1a4ae7d4-89c4-4b82-8fcb-887370647dfc)
+![Screenshot 2024-05-26 133132](https://github.com/divyaanbu-143/QRdecomposition/assets/155506447/c1b8a042-dba2-4b33-8c26-18b839e44f27)
+
 
 
 
