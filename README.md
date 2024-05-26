@@ -1,14 +1,18 @@
 # Algorithm for QR Decomposition
-# Date : 
+# Date : 27.04.2024
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
+### Step 1 :
 1. import the NumPy library using the statement import numpy as np.
+### Step 2 :
 2. Define the given matrix A
+### Step 3 :
 3. Compute the QR Decomposition using np.linalg.inv()
+### Step 4 :
 4. print and end the program
 
 
